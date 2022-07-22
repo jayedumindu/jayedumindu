@@ -1,5 +1,5 @@
 <H3 align="center">Hi there 👋</H3> <br><br>
-<img src=https://raw.githubusercontent.com/jayedumindu/jayedumindu/main/loading.gif align="center"> 
+<!-- <img src=https://raw.githubusercontent.com/jayedumindu/jayedumindu/main/loading.gif align="center">  -->
 <br>
 <p align="center">
 - 🔭 I’m currently working on everything <br>
