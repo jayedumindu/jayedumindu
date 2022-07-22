@@ -1,6 +1,5 @@
-<h3 align="left">Hi there 👋 </h3> <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayedumindu&label=Profile%20views&color=0e75b6&style=flat" alt="jayedumindu" /> </p>
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayedumindu&label=Profile%20views&color=0e75b6&style=flat" alt="jayedumindu" /> </p> <br>
+<h3 align="left"> Hi there 👋 </h3> <br>
 <p align="left">
 - 🔭 I’m currently working on everything <br>
 - 🌱 learning to code & design <br>
