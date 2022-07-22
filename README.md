@@ -1,7 +1,7 @@
-<H3 align="center">Hi there 👋</H3> <br><br>
-<!-- <img src=https://raw.githubusercontent.com/jayedumindu/jayedumindu/main/loading.gif align="center">  -->
+<h3> align="center">Hi there 👋 </h3> <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayedumindu&label=Profile%20views&color=0e75b6&style=flat" alt="jayedumindu" /> </p>
 <br>
-<p align="center">
+<p align="left">
 - 🔭 I’m currently working on everything <br>
 - 🌱 learning to code & design <br>
 - 👯 I’m looking to collaborate on anything that surprise me <br>
