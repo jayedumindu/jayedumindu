@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayedumindu&label=Profile%20views&color=0e75b6&style=flat" alt="jayedumindu" /> </p> 
 <h3 align="left"> Hi there 👋 </h3> 
 <p align="left">
-- 🔭 I’m currently working on everything <br>
+- 🔭 I’m currently working on $BASH <br>
 - 🌱 learning to code & design <br>
 - 👯 I’m looking to collaborate on anything that surprise me <br>
 - 💬 Ask me about why java and javascript are not related <br>
