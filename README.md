@@ -10,5 +10,5 @@
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayedumindu&show_icons=true&locale=en"/></p>
 
-<h3 align="left"> Hire Me 🙌🏽 </h3>
-<a href="https://www.fiverr.com/share/GoN2vZ">
+<h3 align="left"> Hire Me via Fiverr 🙌🏽 </h3>
+<a href="https://www.fiverr.com/share/GoN2vZ"> Show Gig </a>
