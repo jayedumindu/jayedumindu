@@ -5,5 +5,5 @@
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayedumindu&show_icons=true&locale=en"/></p>
 
-<h3 align="left"> Hire Me via Fiverr 🙌🏽 </h3>
-<a href="https://www.fiverr.com/share/GoN2vZ"> Show Gig </a>
+<h3 align="left"> Hire Me via Upwork 🙌🏽 </h3>
+<a href="[https://www.fiverr.com/share/GoN2vZ](https://www.upwork.com/freelancers/~012eefb5841530b8f8)https://www.upwork.com/freelancers/~012eefb5841530b8f8"> Hurry Up! </a>
